@@ -77,8 +77,6 @@ $RECYCLE.BIN/
 *.lnk
 ### Maven template
 target/
-Final.iml
-DormitoryControllerFinal.iml
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
