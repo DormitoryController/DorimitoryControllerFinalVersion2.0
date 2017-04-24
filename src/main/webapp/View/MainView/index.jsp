@@ -3,10 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <link href="/bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet">
-    <script src="/bootstrap-3.3.7-dist/js/jquery-3.1.1.min.js"></script>
-
-    <script src="/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
-
 
     <title>Insert title here</title>
 </head>
@@ -111,5 +107,8 @@
         </div>
     </div>
 </div>
+<script src="/bootstrap-3.3.7-dist/js/jquery-3.1.1.min.js"></script>
+
+<script src="/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
 </body>
 </html>
