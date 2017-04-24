@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="Final:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="Final.war">
+    <root id="archive" name="DorimitoryControllerFinalVersion2.0.war">
       <element id="artifact" artifact-name="Final:war exploded" />
     </root>
   </artifact>
